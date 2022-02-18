@@ -110,7 +110,7 @@
     "lodash.camelcase": "^4.3.0",
     "node": "^14.17.3",
     "prettier": "^2.3.0",
-    "prompt": "^1.0.0",
+    "prompt": "^1.2.2",
     "replace-in-file": "^6.2.0",
     "rimraf": "^3.0.2",
     "rollup": "^2.50.4",
